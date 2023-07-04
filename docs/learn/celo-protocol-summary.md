@@ -51,7 +51,6 @@ Designed to support an ecology of stable value currencies. The first Mento stabl
 Open source permissionless smart contract platform built on decentralized infrastructure.
 
 - Proof-of-Stake based consensus with high throughput, low latency, and zero carbon
-- Incentives for serving mobile devices
 - On-chain governance
 
 ## Build on Celo

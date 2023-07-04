@@ -35,14 +35,6 @@ In Ethereum, verifying whether data received from an untrusted full node really 
 
 Roadmap: Synchronization performance will be further improved with BLS signature aggregation and succinct zero-knowledge proofs, via zk-SNARKs.
 
-## Incentives for Operating Full Nodes
-
-In Ethereum, there are few incentives to run a full node that is not mining. Few nodes serve light clients, and this results in a poor experience for mobile wallets.
-
-Celo introduces a scheme that incentivizes users to operate regular nodes. Light clients pay transaction fees to full nodes. Clients include in every transaction the address of a node that, when the transaction is processed, receives the fee. While a full node provides other services for which they receive no specific fee, it is expected that failing to service these requests will cause clients to seek other full nodes that do, who will then receive fees when they next make a transaction.
-
-Since light clients need not trust full nodes, as they can verify their work, this also provides the 'permissionless on-ramp' for users to receive CELO or Celo Dollars (cUSD) without already holding it that is missing in other Proof-of-Stake networks.
-
 ## Stable Cryptocurrencies
 
 Celo enables a family of Mento stablecoins that track the value of any asset, including fiat currencies, commodities, and even natural resources. Mento stablecoins supported include the Celo Dollar (cUSD) and the Celo Euro (cEUR), which track the value of the U.S. Dollar and Euro respectively. CELO and a basket of other assets including BTC and ETH serve as the collateral for these stablecoins. These stablecoins are redeemable for CELO, ensuring that transactions can occur quickly, cheaply, and reliably on-chain.

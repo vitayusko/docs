@@ -322,3 +322,10 @@ inTheory is a DeSci funding platform that allows crypto users to fund, support, 
 
 - [Website](https://intheory.impact-finance.io/)
 - [GitHub](https://github.com/Impact-Finance/intheory-mobile-nft-mint-celo)
+
+  ### Challenge.Day
+
+  Challenge App, offers an innovative approach to tackling the issue of motivation and goal setting.  We provide users with a platform to connect with others who share their interests and aspirations. This not only fosters a supportive community, but also incentivizes users to stay focused on their goals. Through setting and completing specific challenges, users can earn real financial rewards, adding a tangible aspect to their motivation and progress.
+  
+- [Website](https://www.challenge.day)
+- [GitHub] ( https://github.com/challenge-day/chl-token )
